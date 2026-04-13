@@ -12,7 +12,7 @@ This project demonstrates a simple weather prediction model using the quadratic 
 
 ## Stages of Implementation  
 
-1. **Hard-coded values** – Program runs with fixed values inside the code.  
+1. **Hard-coded values** – Program runs with fixed values there inside the code.  
 2. **Keyboard input** – User provides values (`a`, `b`, `c`, `t`) through input.  
 3. **File input (single set)** – Reads one set of values from `inputs_single.txt`.  
 4. **File input (multiple sets)** – Reads multiple sets of values from `inputs_multiple.txt`.  
