@@ -6,7 +6,7 @@ This project demonstrates a simple weather prediction model using the quadratic 
 
 - **T(t):** Predicted temperature at time t  
 - **a, b, c:** Coefficients based on environmental/atmospheric data  
-- **t:** Time (hour or day)  
+- **t:** Time (an hour or a day)  
 
 ---
 
